@@ -75,6 +75,7 @@
           </option>
           <option name="settings" value="true" />
           <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
@@ -1559,8 +1560,10 @@
             <slidelink slideid="_player.6ExYfsADfn6.5WetfdEjorz" displaytext="home" expand="false" type="slide" />
             <slidelink slideid="_player.6ExYfsADfn6.5l4ZywzQSOE" displaytext="menu" expand="false" type="slide" />
             <slidelink slideid="_player.6ExYfsADfn6.6UR45Ldf3Du" displaytext="latest Projects" expand="false" type="slide" />
+            <slidelink slideid="_player.6ExYfsADfn6.5XABkCmM8nV" displaytext="Share with us" expand="false" type="slide" />
             <slidelink slideid="_player.6ExYfsADfn6.6Dt5XbrJHWz" displaytext="What&amp;apos;s Next" expand="false" type="slide" />
             <slidelink slideid="_player.6ExYfsADfn6.61tHTWWa34w" displaytext="Hires" expand="false" type="slide" />
+            <slidelink slideid="_player.6ExYfsADfn6.67atM3sQDvE" displaytext="Hires" expand="false" type="slide" />
             <slidelink slideid="_player.6ExYfsADfn6.6Ug5UXy3f4x" displaytext="Interactive Content" expand="false" type="slide" />
             <slidelink slideid="_player.6ExYfsADfn6.6VNalhNSbJ6" displaytext="Interactive Content" expand="false" type="slide" />
             <slidelink slideid="_player.6ExYfsADfn6.67aJnxADXZh" displaytext="Interactive Content" expand="false" type="slide" />
