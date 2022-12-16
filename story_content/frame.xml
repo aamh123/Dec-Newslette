@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="dec, newsletter" />
+              <option name="title_text" value="Dec, newsletter" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1558,6 +1558,7 @@
         <slidelink slideid="_player.6ExYfsADfn6" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6ExYfsADfn6.5WetfdEjorz" displaytext="home" expand="false" type="slide" />
+            <slidelink slideid="_player.6ExYfsADfn6.69YSJZfv5st" displaytext="home" expand="false" type="slide" />
             <slidelink slideid="_player.6ExYfsADfn6.5l4ZywzQSOE" displaytext="menu" expand="false" type="slide" />
             <slidelink slideid="_player.6ExYfsADfn6.6UR45Ldf3Du" displaytext="latest Projects" expand="false" type="slide" />
             <slidelink slideid="_player.6ExYfsADfn6.5XABkCmM8nV" displaytext="Share with us" expand="false" type="slide" />

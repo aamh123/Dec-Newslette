@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">dec, newsletter</langstring>
+          <langstring xml:lang="x-none">Dec, newsletter</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="dec,_newsletter_ORG">
-    <organization identifier="dec,_newsletter_ORG">
-      <title>dec, newsletter</title>
+  <organizations default="Dec,_newsletter_ORG">
+    <organization identifier="Dec,_newsletter_ORG">
+      <title>Dec, newsletter</title>
       <item identifier="dec,_newsletter_SCO" isvisible="true" identifierref="__5YaatIDzeSh_RES">
-        <title>dec, newsletter</title>
+        <title>Dec, newsletter</title>
       </item>
     </organization>
   </organizations>
@@ -91,6 +91,7 @@
       <file href="mobile/682zBWqkfwA.png" />
       <file href="meta.xml" />
       <file href="story_content/user.js" />
+      <file href="mobile/Shape5sPC0qgVGlk.png" />
       <file href="mobile/Shape6UI46owwoDu.png" />
       <file href="mobile/Shape6bTdyV16myl.png" />
       <file href="html5/data/css/output.min.css" />
@@ -101,6 +102,7 @@
       <file href="html5/data/js/61tHTWWa34w.js" />
       <file href="html5/data/js/67aJnxADXZh.js" />
       <file href="html5/data/js/67atM3sQDvE.js" />
+      <file href="html5/data/js/69YSJZfv5st.js" />
       <file href="html5/data/js/6Dt5XbrJHWz.js" />
       <file href="html5/data/js/6LtcLy9Csiz.js" />
       <file href="html5/data/js/6Ug5UXy3f4x.js" />
